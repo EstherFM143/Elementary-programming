@@ -14,3 +14,5 @@ If it contains a mine, the game is over.
 If it contains a number, the number of adjacent mines is displayed.
 If it is empty, all adjacent tiles are revealed recursively until a number tile is encountered.
 Game End: The game ends when either a mine is clicked (loss) or all non-mine tiles are revealed (win).
+
+Further instructions of the assignment can be seen in instructions.pdf
