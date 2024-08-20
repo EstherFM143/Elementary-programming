@@ -1,5 +1,5 @@
 # Elementary-programming
-MINESWEEPER
+MINESWEEPER.
 Welcome to Minesweeper game. My final assignment for elementary programming course at University of Oulu is to develop a minesweeper game using Python programming language, and the library (sweeperlib.py) and graphics (sprites.zip) provided.
 
 Game Setup.
